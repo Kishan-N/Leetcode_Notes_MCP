@@ -1,4 +1,4 @@
-# LeetCode MCP (Model Context Protocol)
+# LeetCode MCP (Multi-Context Protocol)
 
 This is a Python-based tool that fetches LeetCode problems and provides detailed explanations of various solution approaches.
 
