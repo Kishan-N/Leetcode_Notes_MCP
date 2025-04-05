@@ -19,6 +19,10 @@ This is a Python-based tool that fetches LeetCode problems and provides detailed
 ```bash
 pip install -r requirements.txt
 ```
+3. Update your open API Key in the `config.json` file:
+```json
+{"OPENAI_API_KEY": "<Add your OpenAI API key here>"}
+```
 
 ## Usage
 
